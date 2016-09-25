@@ -1,0 +1,16 @@
+The original data set was filt3ered to include only mean and standard deviation values for each measurement
+A complete crosswalk table is beyond the scope of the assignment. We have “tidied up” the column names by converting “t” to “time” and F to “freq”, “std” to “Std Dev”, etc.
+The final analysis calculated the average (mean) value for each measurement for each subject.
+The units in the final analysis were unchanged.
+Source of original data : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Description of Data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Files Used
+
+X_train.txt
+X_test.txt
+Y_train.txt
+Y_test.txt
+subject_train.txt
+subject_test.txt
+features.txt
+activity_labels.txt
